@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JWLab03b</string>
+    <string name="title">Batter Up!</string>
+    <string name="settings">Animation Speed</string>
+    <string name="guess_0">Cupcake #0</string>
+    <string name="min_0">Streak: 0</string>
+    <string-array name="welcome_messages">
+        <item>Welcome to Batter Up!</item>
+        <item>You will be given cupcakes in varying stages of completion.</item>
+        <item>For each cupcake, click on the next component.</item>
+        <item>Cupcakes are built like this:</item>
+        <item>Change the animation speed using the slider. </item>
+        <item>Click the button to begin!</item>
+    </string-array>
+    <string name="message_full">Welcome! For each cupcake, click on the next component. Click Start to begin! </string>
+    <string name="cupcake_cnt">"Cupcakes: "</string>
+</resources>
